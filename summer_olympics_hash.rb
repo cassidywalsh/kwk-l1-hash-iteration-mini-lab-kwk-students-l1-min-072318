@@ -3,16 +3,16 @@
 #   olympics = {:sydney => 2000, :athens => 2004, :beijing => 2008, :london => 2012}
 # end
 
-def add_a_key_value_pair
-olympics = {:sydney => 2000, :athens => 2004, :beijing => 2008, :london => 2012}
-olympics[:atlanta] = 1996
-puts olympics
-end
+# def add_a_key_value_pair
+# olympics = {:sydney => 2000, :athens => 2004, :beijing => 2008, :london => 2012}
+# olympics[:atlanta] = 1996
+# puts olympics
+# end
 
 # add_a_key_value_pair
 
 def iterate_through_hash
-  
+  olympics = {:sydney => 2000, :athens => 2004, :beijing => 2008, :london => 2012, ;atlanta }
   # and puts each key value pair within the phrase "The _____ summer olympics took place in _____."
 end
 
