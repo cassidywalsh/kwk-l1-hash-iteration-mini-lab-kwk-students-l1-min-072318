@@ -16,6 +16,7 @@ def iterate_through_hash
   olympics.each do |x,y|
   puts "The #{y} summer olympics took place in #{x}."
 end
+end
 
 iterate_through_hash
  
