@@ -12,7 +12,7 @@
 # add_a_key_value_pair
 
 def iterate_through_hash
-  olympics = {:sydney => 2000, :athens => 2004, :beijing => 2008, :london => 2012, ;atlanta }
+  olympics = {:sydney => 2000, :athens => 2004, :beijing => 2008, :london => 2012, :atlanta => 1996 }
   # and puts each key value pair within the phrase "The _____ summer olympics took place in _____."
 end
 
